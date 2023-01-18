@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { Carousel } from 'react-responsive-carousel';
-import './Banner.css'
 
 const Banner = () => {
     const [banner, setBanner] = useState([]);
@@ -13,10 +12,10 @@ const Banner = () => {
     return (
         <div className='-mb-10'>
             < Carousel 
+            infiniteLoop
             autoPlay
             interval={3000}
             showArrows={true}
-            infiniteLoop
              >
                 {
                     banner.map(banner =>
