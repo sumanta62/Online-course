@@ -1,0 +1,24 @@
+[
+    {
+      "categary_id":"01",
+      "img": "https://images.pexels.com/photos/574073/pexels-photo-574073.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Welcome to your Computer Skill development",
+      "decsription": "To test and develop software, you'll need basic computer programming knowledge. This involves understanding software and hardware as well. As a working professional, it's important you gain a solid foundation of basic computer skills. Depending on your industry and your employer, the computer skills you need to complete your job will vary."
+      
+    },
+    {
+      "categary_id":"02",
+      "img": "https://images.pexels.com/photos/574080/pexels-photo-574080.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Create a dynamics modern website design",
+      "decsription": "These days, there’s little in the digital world that isn’t constantly changing and developing. Your website should be no exception. If you want to keep your audience engaged and your content desirable, you’ll have to stay on top of your game and make sure you’re covering the latest trends. Otherwise, you might risk appearing stale and irrelevant."
+      
+    },
+    {
+      "categary_id":"03",
+      "img": "https://images.pexels.com/photos/907487/pexels-photo-907487.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "title": "Create a dynamics Responsive website design",
+      "decsription": "Responsive web design refers to a design strategy that creates websites that work well for mobile, tablet, and desktop devices. Websites without responsive design risk alienating a significant number of users."
+      
+    }
+    
+]
