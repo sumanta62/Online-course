@@ -11,8 +11,13 @@ const Banner = () => {
 
     }, [])
     return (
-        <div className='-mb-10 bg-black'>
-            < Carousel >
+        <div className='-mb-10'>
+            < Carousel 
+            autoPlay
+            interval={3000}
+            showArrows={true}
+            infiniteLoop
+             >
                 {
                     banner.map(banner =>
                         <div>

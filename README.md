@@ -1,6 +1,6 @@
 # Getting Started with Dentist Exparte
 
-This project was bootstrapped with [Dentist Exparte](https://detist-expert.web.app).
+This project was bootstrapped with [react app](https://peaceful-platypus-b12f11.netlify.app/).
 
 ## Details Description
 
@@ -8,15 +8,7 @@ This project was bootstrapped with [Dentist Exparte](https://detist-expert.web.a
 
 2.A about sectio added under the home section
 
-3.Dynamicali input a service section and showing their details a different page
-
-4.Add e Equipment gallery and Comunication adress
-
-5.Register User and Login then into the access to add a service item and inpt a review in a treatment
-
-6.The review page ar showing some input item then user if can update or delet they can do it 
-
-7.When a user is not access before they could not access the review and other work
+3.Add e Equipment gallery and Comunication adress
 
 
 ### `npm start`
